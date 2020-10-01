@@ -1,4 +1,4 @@
 # 3695 GraphQL Assignment 1 Team ScrapQL!
 
-Michael Phuc
+Michael Chau
 Tristan Priestley
